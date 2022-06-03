@@ -1,37 +1,31 @@
 [
   {
-    "name": "Digg",
-    "logoUrl": "/assets/logos/digg.png",
+    "companyId": "1",
     "timestamp": 1651835819,
     "description": "Website that enables its users to find, read, and share the most interesting and talked about stories on the internet."
   },
   {
-    "name": "Quibi",
-    "logoUrl": "/assets/logos/quibi.png",
+    "companyId": "2",
     "timestamp": 1651835819,
     "description": "Quibi is a media company developing short-form media content designed for smartphones."
   },
   {
-    "name": "Design Inc.",
-    "logoUrl": "/assets/logos/design_inc.png",
+    "companyId": "3",
     "timestamp": 1651835819,
     "description": "We help established companies and startups design and build beautiful products that are simple and easy to use"
   },
   {
-    "name": "MySpace",
-    "logoUrl": "/assets/logos/my_space.png",
+    "companyId": "4",
     "timestamp": 1651835819,
     "description": "Social networking site that enables members to make friends, write blog posts, add music, and customize their MySpace pages."
   },
   {
-    "name": "Yik Yak",
-    "logoUrl": "/assets/logos/yik_yak.png",
+    "companyId": "5",
     "timestamp": 1651835819,
     "description": "Yik Yak is a location-based social network that helps people discover their local community."
   },
   {
-    "name": "Vine",
-    "logoUrl": "/assets/logos/vine.png",
+    "companyId": "6",
     "timestamp": 1651835819,
     "description": "Vine is an online platform that enables users to create short looping video clips for friends and family."
   }
