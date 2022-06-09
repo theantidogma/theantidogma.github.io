@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Bjoern Zinssmeister",
     "imageUrl": "/assets/users/1.png",
-    "tags": ["Founder", "Consultant", "Mentor"],
+    "tags": "Founder, Consultant, Mentor",
     "about": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec leo dignissim, mattis sem in, fermentum urna. Pellentesque rutrum aliquam orci non viverra. Duis ullamcorper nunc elit. Nam facilisis erat et lorem cursus pretium. Ut vel velit at mi accumsan condimentum. In pharetra vestibulum augue sed tempus. Pellentesque molestie ut odio vitae eleifend. Ut tempus urna sit amet diam maximus volutpat. Nulla eget tellus vel nibh pretium fermentum nec nec massa. Sed porta ex nec nisi mollis volutpat. Suspendisse porta mattis ex nec commodo. Quisque ut nisi in purus viverra pellentesque. Fusce augue lorem, luctus at eros nec, tempor iaculis ex. Suspendisse porttitor, lectus eu mollis condimentum, ligula nunc tincidunt nibh, sed varius elit velit imperdiet augue. Nulla facilisi.\n\nProin ut pulvinar purus. Quisque tincidunt sapien id mi pellentesque, ac interdum turpis feugiat. Maecenas pulvinar nisi ut facilisis volutpat. Pellentesque aliquet odio et purus dapibus bibendum. Nullam et euismod sem. Nunc tortor massa, feugiat id justo ac, tempor viverra erat. Curabitur quis placerat tortor. ",
     "contacts": [
       {"contactId": "1", "contactHandle": "bjorn"},
@@ -58,7 +58,7 @@
     "id": "2",
     "name": "Marc Hemeon",
     "imageUrl": "/assets/users/2.png",
-    "tags": ["Founder", "Mentor"],
+    "tags": "Founder, Mentor",
     "about": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec leo dignissim, mattis sem in, fermentum urna. Pellentesque rutrum aliquam orci non viverra. Duis ullamcorper nunc elit. Nam facilisis erat et lorem cursus pretium. Ut vel velit at mi accumsan condimentum. In pharetra vestibulum augue sed tempus. Pellentesque molestie ut odio vitae eleifend. Ut tempus urna sit amet diam maximus volutpat. Nulla eget tellus vel nibh pretium fermentum nec nec massa. Sed porta ex nec nisi mollis volutpat. Suspendisse porta mattis ex nec commodo. Quisque ut nisi in purus viverra pellentesque. Fusce augue lorem, luctus at eros nec, tempor iaculis ex. Suspendisse porttitor, lectus eu mollis condimentum, ligula nunc tincidunt nibh, sed varius elit velit imperdiet augue. Nulla facilisi.\n\nProin ut pulvinar purus. Quisque tincidunt sapien id mi pellentesque, ac interdum turpis feugiat. Maecenas pulvinar nisi ut facilisis volutpat. Pellentesque aliquet odio et purus dapibus bibendum. Nullam et euismod sem. Nunc tortor massa, feugiat id justo ac, tempor viverra erat. Curabitur quis placerat tortor. ",
     "contacts": [
       {"contactId": "1", "contactHandle": "bjorn"},

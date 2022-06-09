@@ -4,7 +4,7 @@
     "name": "Digg",
     "logoUrl": "/assets/logos/digg.png",
     "bannerUrl": "/assets/banners/digg.png",
-    "tags": ["Graphics Design", "UX Design", "Web Design"],
+    "tags": "Graphics Design, UX Design, Web Design",
     "contacts": [
       {"contactId": "1", "contactHandle": "digg"},
       {"contactId": "2", "contactHandle": "digg"},
@@ -16,14 +16,15 @@
     "solution": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec leo dignissim, mattis sem in, fermentum urna. Pellentesque rutrum aliquam orci non viverra. Duis ullamcorper nunc elit. Nam facilisis erat et lorem cursus pretium. Ut vel velit at mi accumsan condimentum. In pharetra vestibulum augue sed tempus. Pellentesque molestie ut odio vitae eleifend. Ut tempus urna sit amet diam maximus volutpat. Nulla eget tellus vel nibh pretium fermentum nec nec massa. Sed porta ex nec nisi mollis volutpat. Suspendisse porta mattis ex nec commodo. Quisque ut nisi in purus viverra pellentesque. Fusce augue lorem, luctus at eros nec, tempor iaculis ex. Suspendisse porttitor, lectus eu mollis condimentum, ligula nunc tincidunt nibh, sed varius elit velit imperdiet augue. Nulla facilisi.\n\nProin ut pulvinar purus. Quisque tincidunt sapien id mi pellentesque, ac interdum turpis feugiat. Maecenas pulvinar nisi ut facilisis volutpat. Pellentesque aliquet odio et purus dapibus bibendum. Nullam et euismod sem. Nunc tortor massa, feugiat id justo ac, tempor viverra erat. Curabitur quis placerat tortor.",
     "marketSize": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec leo dignissim, mattis sem in, fermentum urna. Pellentesque rutrum aliquam orci non viverra. Duis ullamcorper nunc elit. Nam facilisis erat et lorem cursus pretium. Ut vel velit at mi accumsan condimentum. In pharetra vestibulum augue sed tempus. Pellentesque molestie ut odio vitae eleifend. Ut tempus urna sit amet diam maximus volutpat. Nulla eget tellus vel nibh pretium fermentum nec nec massa. Sed porta ex nec nisi mollis volutpat. Suspendisse porta mattis ex nec commodo. Quisque ut nisi in purus viverra pellentesque. Fusce augue lorem, luctus at eros nec, tempor iaculis ex. Suspendisse porttitor, lectus eu mollis condimentum, ligula nunc tincidunt nibh, sed varius elit velit imperdiet augue. Nulla facilisi.\n\nProin ut pulvinar purus. Quisque tincidunt sapien id mi pellentesque, ac interdum turpis feugiat. Maecenas pulvinar nisi ut facilisis volutpat. Pellentesque aliquet odio et purus dapibus bibendum. Nullam et euismod sem. Nunc tortor massa, feugiat id justo ac, tempor viverra erat. Curabitur quis placerat tortor.",
     "competitors": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec leo dignissim, mattis sem in, fermentum urna. Pellentesque rutrum aliquam orci non viverra. Duis ullamcorper nunc elit. Nam facilisis erat et lorem cursus pretium. Ut vel velit at mi accumsan condimentum. In pharetra vestibulum augue sed tempus. Pellentesque molestie ut odio vitae eleifend. Ut tempus urna sit amet diam maximus volutpat. Nulla eget tellus vel nibh pretium fermentum nec nec massa. Sed porta ex nec nisi mollis volutpat. Suspendisse porta mattis ex nec commodo. Quisque ut nisi in purus viverra pellentesque. Fusce augue lorem, luctus at eros nec, tempor iaculis ex. Suspendisse porttitor, lectus eu mollis condimentum, ligula nunc tincidunt nibh, sed varius elit velit imperdiet augue. Nulla facilisi.\n\nProin ut pulvinar purus. Quisque tincidunt sapien id mi pellentesque, ac interdum turpis feugiat. Maecenas pulvinar nisi ut facilisis volutpat. Pellentesque aliquet odio et purus dapibus bibendum. Nullam et euismod sem. Nunc tortor massa, feugiat id justo ac, tempor viverra erat. Curabitur quis placerat tortor.",
-    "founders": ["1", "2"]
+    "founders": ["1", "2"],
+    "sinopsis": "This is a sinopsis for Digg"
   },
   "2": {
     "id": "2",
     "name": "Quibi",
     "logoUrl": "/assets/logos/quibi.png",
     "bannerUrl": "/assets/banners/quibi.png",
-    "tags": ["Graphics Design", "UX Design", "Web Design"],
+    "tags": "Graphics Design, UX Design, Web Design",
     "contacts": [
       {"contactId": "1", "contactHandle": "quibi"},
       {"contactId": "2", "contactHandle": "quibi"},
@@ -49,7 +50,7 @@
     "name": "MySpace",
     "logoUrl": "/assets/logos/my_space.png",
     "bannerUrl": "/assets/banners/my_space.png",
-    "tags": ["Graphics Design", "UX Design", "Web Design"],
+    "tags": "Graphics Design, UX Design, Web Design",
     "contacts": [
       {"contactId": "1", "contactHandle": "my_space"},
       {"contactId": "2", "contactHandle": "my_space"},
@@ -62,7 +63,7 @@
     "name": "Yik Yak",
     "logoUrl": "/assets/logos/yik_yak.png",
     "bannerUrl": "/assets/banners/yik_yak.png",
-    "tags": ["Graphics Design", "UX Design", "Web Design"],
+    "tags": "Graphics Design, UX Design, Web Design",
     "contacts": [
       {"contactId": "1", "contactHandle": "yik_yak"},
       {"contactId": "2", "contactHandle": "yik_yak"},
@@ -75,7 +76,7 @@
     "name": "Vine",
     "logoUrl": "/assets/logos/vine.png",
     "bannerUrl": "/assets/banners/vine.png",
-    "tags": ["Graphics Design", "UX Design", "Web Design"],
+    "tags": "Graphics Design, UX Design, Web Design",
     "contacts": [
       {"contactId": "1", "contactHandle": "Vine"},
       {"contactId": "2", "contactHandle": "Vine"},
